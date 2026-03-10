@@ -1,6 +1,6 @@
 # SIS 2 CLI Version
 
-This version removes Tkinter completely and uses a simple command-line interface.
+Removed Tkinter, just CLI
 
 ## Files
 - `main.py` - CLI menu
@@ -8,7 +8,7 @@ This version removes Tkinter completely and uses a simple command-line interface
 
 ## Run
 ```bash
-python3 main.py
+python3 main.py for MACOS
 ```
 
 ## Features
